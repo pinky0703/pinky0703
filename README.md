@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/eclipse-important?style=flat-square&logo=eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/postgreSQL-3766AB?style=flat-square&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/nexacro17-black?style=flat-square&logo=nexacro17&logoColor=white"/></a>
 <!--
 **pinky0703/pinky0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
