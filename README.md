@@ -3,10 +3,7 @@
 - 🌱 Learning Web full stack
 - 🤔 What I want to learn is React.js
 
-![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=pinky0703&show_icons=true)
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pinky0703&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pinky0703)
-
-**Language**
+**I can do...**
 
 <img src="https://img.shields.io/badge/html-02569B?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-512BD4?style=flat-square&logo=php&logoColor=white"/></a>
@@ -14,7 +11,7 @@
 <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jquery-3178C6?style=flat-square&logo=jquery&logoColor=white"/></a>
 
-**Tools**
+**I used it...**
 
 <img src="https://img.shields.io/badge/APACHE-ff69b4?style=flat-square&logo=apache&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache tomcat-critical?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
@@ -22,6 +19,10 @@
 <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/postgreSQL-3766AB?style=flat-square&logo=postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/nexacro17-black?style=flat-square&logo=nexacro17&logoColor=white"/></a>
+![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=pinky0703&show_icons=true)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pinky0703&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/pinky0703)
+
+
 <!--
 **pinky0703/pinky0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
