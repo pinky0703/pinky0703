@@ -5,11 +5,12 @@
 
 **I can do...**
 
-<img src="https://img.shields.io/badge/html-02569B?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PHP-512BD4?style=flat-square&logo=php&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/html-02569B?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/css-61DAFB?style=flat-square&logo=css3&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jquery-3178C6?style=flat-square&logo=jquery&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
 
 **I used it...**
 
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/Apache tomcat-critical?style=flat-square&logo=apachetomcat&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/eclipse-important?style=flat-square&logo=eclipse&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=mysql&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/postgreSQL-3766AB?style=flat-square&logo=postgresql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/nexacro17-black?style=flat-square&logo=nexacro17&logoColor=white"/></a>
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=pinky0703&show_icons=true)
