@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Working as FE web developer.
+- 🔭 Working as FE/BE web developer.
 - 🌱 Learning Web full stack
 - 🤔 What I want to learn is React.js
 
