@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Working as FE/BE web developer.
-- 🌱 Learning Web full stack
+- 🌱 Learning Web full stack & Android 
 - 🤔 What I want to learn is React.js
 
 **I can do...**
